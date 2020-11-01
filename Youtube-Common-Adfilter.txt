@@ -1,0 +1,48 @@
+# Title:Youtube-Adfilter
+# Version:1.0
+# Status:alpha
+
+# Domains
+ad.doubleclick.net
+googlesyndication.com
+tpc.googlesyndication.com
+pagead.googlesyndication.com
+pagead1.googlesyndication.com
+pagead2.googlesyndication.com
+ade.googlesyndication.com
+googleads.g.doubleclick.net
+googleads4.g.doubleclick.net
+yt.moatads.com
+yts.moatads.com
+ads.doubleclick.net
+ad.youtube.com
+ads.youtube.com
+pixel.moatads.com
+rtd.tubemogul.com
+pubads.g.doubleclick.net
+stats.g.doubleclick.net
+pagead.l.doubleclick.net
+files.adform.net
+securepubads.g.doubleclick.net
+static.doubleclick.net
+ad-g.doubleclick.net
+ad.doubleclick.net
+ad.mo.doubleclick.net
+doubleclick.net
+www.youtube-nocookie.com
+youtube-nocookie.com
+s0.2mdn.net
+s.ytimg.com
+s.googlevideo.com
+z.googlevideo.com
+7.googlevideo.com
+clients6.google.com
+doubleclick.net
+e.googlevideo.com
+googleadservices.com
+googlesyndication.com
+k.googlevideo.com
+pixel.adsafeprotected.com
+acquisition-tracker.wix.com
+redirector.googlevideo.com
+manifest.googlevideo.com
